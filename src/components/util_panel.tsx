@@ -1,4 +1,4 @@
-import React, { ReactElement, MouseEvent } from 'React'
+import React, { ReactElement, MouseEvent } from 'react'
 const { useState } = React
 import { connect } from 'react-redux'
 import { Dispatch } from 'redux'
